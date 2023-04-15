@@ -1,0 +1,25 @@
+{
+"autoplayBgm":false,"autoplayBgs":false,"battleback1Name":"","battleback2Name":"","bgm":{"name":"","pan":0,"pitch":100,"volume":90},"bgs":{"name":"","pan":0,"pitch":100,"volume":90},"disableDashing":true,"displayName":"","encounterList":[],"encounterStep":30,"height":10,"note":"","parallaxLoopX":false,"parallaxLoopY":false,"parallaxName":"","parallaxShow":true,"parallaxSx":0,"parallaxSy":0,"scrollType":0,"specifyBattleback":false,"tilesetId":3,"width":3,
+"data":[0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],
+"events":[
+null,
+{"id":1,"name":"EV001","note":"","pages":[{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[{"code":241,"indent":0,"parameters":[{"name":"awakening","volume":90,"pitch":100,"pan":0}]},{"code":321,"indent":0,"parameters":[9,6,false]},{"code":231,"indent":0,"parameters":[1,"alexbadilla",0,0,0,0,100,100,255,0]},{"code":101,"indent":0,"parameters":["imp",0,0,2,"IMP"]},{"code":401,"indent":0,"parameters":["...Y usted quién es?"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,""]},{"code":401,"indent":0,"parameters":["Cómo no me vas a reconocer mi rico?"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,"Alex Badilla"]},{"code":401,"indent":0,"parameters":["Soy Alex Badilla, la perrota más hermosa del "]},{"code":401,"indent":0,"parameters":["mundo"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,"Alex Badilla"]},{"code":401,"indent":0,"parameters":["Yo soy tú, tú eres yo..."]},{"code":101,"indent":0,"parameters":["imp",0,0,2,"IMP"]},{"code":401,"indent":0,"parameters":["Pero, no somos lo mismo, yo no me llamo así,"]},{"code":401,"indent":0,"parameters":["yo..."]},{"code":101,"indent":0,"parameters":["imp",0,0,2,"IMP"]},{"code":401,"indent":0,"parameters":["No me veo así"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,"Alex Badilla"]},{"code":401,"indent":0,"parameters":["..? Ah jiji eso es normaal, al inicio"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,"Alex Badilla"]},{"code":401,"indent":0,"parameters":["Es difícil aceptarlo, pero tenés todo nuestro"]},{"code":401,"indent":0,"parameters":["apoyo"]},{"code":101,"indent":0,"parameters":["imp",0,0,2,"IMP"]},{"code":401,"indent":0,"parameters":["Apoyo de quiénes? Creo que aquí hay un gran"]},{"code":401,"indent":0,"parameters":["malentendido"]},{"code":101,"indent":0,"parameters":["alexbadilla",4,0,2,"Alex Badilla"]},{"code":401,"indent":0,"parameters":["Bueno, ya veremos, soy tu Persona, me has"]},{"code":401,"indent":0,"parameters":["aceptado, no hay vuelta atrás"]},{"code":221,"indent":0,"parameters":[]},{"code":235,"indent":0,"parameters":[1]},{"code":101,"indent":0,"parameters":["imp",0,0,2,"IMP"]},{"code":401,"indent":0,"parameters":["..."]},{"code":101,"indent":0,"parameters":["porcio",0,0,2,"Porcionzón"]},{"code":401,"indent":0,"parameters":["Ahora sí menecazo, están toas pa poder "]},{"code":401,"indent":0,"parameters":["enfrentarse a las guilas de Jololiv..."]},{"code":201,"indent":0,"parameters":[0,29,8,15,0,0]},{"code":222,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"moveFrequency":3,"moveRoute":{"list":[{"code":0,"parameters":[]}],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":3,"walkAnime":true}],"x":1,"y":0},
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null,
+null
+]
+}

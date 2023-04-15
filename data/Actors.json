@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"firipo","characterIndex":0,"characterName":"firipo","classId":1,"equips":[0,0,0,2,73],"faceIndex":0,"faceName":"firipoo","traits":[],"initialLevel":1,"maxLevel":99,"name":"Firiposaki Hirohito yare yare daze omae wa mu shindeiru nani?","nickname":"Firipo","note":"","profile":"El silencioso protagonista. es weeb y estudia en el Sanlo."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Blank","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":4,"faceName":"gayass","traits":[],"initialLevel":1,"maxLevel":99,"name":"Mariela","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"gayass","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sanchez","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Adro","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Adro","traits":[],"initialLevel":1,"maxLevel":99,"name":"Adrian","nickname":"Adro","note":"","profile":""},
+{"id":6,"battlerName":"","characterIndex":0,"characterName":"John","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"John","traits":[],"initialLevel":1,"maxLevel":99,"name":"John","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"","characterIndex":0,"characterName":"Lucas","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Lucas","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucas","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"","characterIndex":0,"characterName":"Kyle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Kyle","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kyle","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"","characterIndex":0,"characterName":"IMP","classId":2,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"IMP","traits":[],"initialLevel":1,"maxLevel":99,"name":"IMP","nickname":"IMP","note":"","profile":"Amigo de la infancia de Firipo, realmente el único\nque lo entiende, y más cercano amigo del Sanlo"},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]

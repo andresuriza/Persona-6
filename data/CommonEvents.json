@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"list":[{"code":355,"indent":0,"parameters":["if ($gameMap.regionId($gamePlayer.x, $gamePlayer.y) === 1);"]},{"code":655,"indent":0,"parameters":["if ($gamePlayer.isMoving()){"]},{"code":655,"indent":0,"parameters":["AudioManager.playSe({ name: \"echofootstep\", volume: 100, pitch: 70, pan: 0 });"]},{"code":655,"indent":0,"parameters":["}"]},{"code":230,"indent":0,"parameters":[20]},{"code":0,"indent":0,"parameters":[]}],"name":"Echo footstep","switchId":3,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+]
